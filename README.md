@@ -2,19 +2,18 @@
 
 Here’s a step-by-step tutorial to **Build Serverless Applications using Cloud Functions and Cloud Run**. 
 
----
-
 ### **1. Prerequisites**
 - **Google Cloud Platform (GCP) Account**.
 - Install **gcloud CLI**.
 - Enable necessary APIs:
 - navigate to set up folder
-  ```
+  
+```
 sudo ./install.sh
 sudo ./google-cloud-sdk/bin/gcloud init
 sudo ./google-cloud-sdk/bin/gcloud auth login
 sudo ./google-cloud-sdk/bin/gcloud services enable cloudfunctions.googleapis.com run.googleapis.com
-  ```
+```
 - A basic understanding of Python/Node.js.
 
 ---
