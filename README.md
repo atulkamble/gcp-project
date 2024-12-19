@@ -8,7 +8,7 @@ Here’s a step-by-step tutorial to **Build Serverless Applications using Cloud 
 - **Google Cloud Platform (GCP) Account**.
 - Install **gcloud CLI**.
 - Enable necessary APIs:
-- // navigate to set up folder
+- navigate to set up folder
   ```bash
   
 sudo ./install.sh
