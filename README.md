@@ -1,4 +1,4 @@
-# gcp-project
+# gcp-serverless-app
 
 Here’s a step-by-step tutorial to **Build Serverless Applications using Cloud Functions and Cloud Run**. 
 
