@@ -25,11 +25,11 @@ sudo ./google-cloud-sdk/bin/gcloud services enable cloudfunctions.googleapis.com
   ```
 - Set your desired project:
   ```bash
-  gcloud config set project [PROJECT_ID]
+  gcloud config set project atul-kamble
   ```
 - Define a region for deployment:
   ```bash
-  gcloud config set run/region [REGION]
+  gcloud config set run/region asia-south1-a
   ```
 
 ---
